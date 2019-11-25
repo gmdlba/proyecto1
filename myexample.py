@@ -7,3 +7,7 @@ print(my_dict)
 # my_dict.values() ##Comprobar que funciona en otro entorno
 my_dict2 = {"keyA": 150, "keyB": "Bye"}
 print(my_dict2["keyA"])
+
+#Suma de dos valores del diccionario 1 y 2
+suma = my_dict["key1"] + my_dict2["keyA"]
+print("la suma es ", suma)
