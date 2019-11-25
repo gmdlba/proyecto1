@@ -5,3 +5,5 @@ print(my_dict["Key3"]["InKey2"])
 my_dict["key4"] = "New_value"
 print(my_dict)
 # my_dict.values() ##Comprobar que funciona en otro entorno
+my_dict2 = {"keyA": 150, "keyB": "Bye"}
+print(my_dict2["keyA"])
