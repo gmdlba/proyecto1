@@ -2,10 +2,13 @@
 Proyecto para hacer pruebas de Git. Realmente no es para que nadie contribuya.
 
 ## Alcance
-DescripciÛn del alcance que tiene este proyecto para entender las implicaciones que tiene.
+Descripci√≥n del alcance que tiene este proyecto para entender las implicaciones que tiene.
 
 ## Destinatarios
-EnumeraciÛn de los destinatarios de esta informacion para tener en cuenta sucesivas distribuciones.
+Enumeraci√≥n de los destinatarios de esta informacion para tener en cuenta sucesivas distribuciones.
 
 ## Cosas a tener en cuenta
-SecciÛn que nos va a permitir saber quÈ debemos tener en cuenta de cara a subir cÛdigo, tal como la orden git reset --soft HEAD~1
+Secci√≥n que nos va a permitir saber qu√© debemos tener en cuenta de cara a subir c√≥digo, tal como la orden git reset --soft HEAD~1
+
+## Conclusiones finales
+Aqu√≠ vamos a poner todas las conclusiones que tenemos que aportar para dar por terminado nuestro proyecto de codificacion.
