@@ -1,4 +1,4 @@
-my_dict = {"key1":200, "Key2":"Hello", "Key3":{"InKey1":150, "InKey2":"Bye"}}
+my_dict = {"key1":200, "Key2":"Hello", "Key3":{"InKey1":150, "InKey2":"Bye"},"Key4":{"Hola"}}
 print(my_dict["key1"])
 print(my_dict["Key3"]["InKey2"])
 
